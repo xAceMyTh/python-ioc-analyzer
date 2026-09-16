@@ -1,0 +1,9 @@
+2026-09-15 10:15:22 Connection from 192.168.1.50
+2026-09-15 10:15:35 Request to suspicious-domain.com
+2026-09-15 10:16:02 Download from http://malicious-example.com/update.exe
+2026-09-15 10:16:40 Connection to 185.220.101.15
+2026-09-15 10:17:03 File hash: b4157a9f819a9aeb401a4b7784f7916e
+2026-09-15 10:17:20 Connection to 185.220.101.15
+2026-09-15 10:18:11 SHA256: 8cd4a12cf21a4e1f9bf2da069be51b52c777328ae6ed87ce29b495412773cd72
+2026-09-15 10:19:07 Request to suspicious-domain.com
+2026-09-15 10:20:00 Suspicious connection from 999.999.999.999
