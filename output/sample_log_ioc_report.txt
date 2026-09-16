@@ -1,0 +1,26 @@
+IOC Analysis Report
+===================
+
+Total de IOCs únicos: 7
+IPs únicos: 2
+Domínios únicos: 2
+URLs únicas: 1
+Hashes MD5 únicos: 1
+Hashes SHA-256 únicos: 1
+
+IPs encontrados:
+- 185.220.101.15 - 2 ocorrência(s)
+- 192.168.1.50 - 1 ocorrência(s)
+
+Domínios encontrados:
+- malicious-example.com - 1 ocorrência(s)
+- suspicious-domain.com - 2 ocorrência(s)
+
+URLs encontradas:
+- http://malicious-example.com/update.exe - 1 ocorrência(s)
+
+Hashes MD5 encontrados:
+- b4157a9f819a9aeb401a4b7784f7916e - 1 ocorrência(s)
+
+Hashes SHA-256 encontrados:
+- 8cd4a12cf21a4e1f9bf2da069be51b52c777328ae6ed87ce29b495412773cd72 - 1 ocorrência(s)
